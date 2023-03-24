@@ -6,6 +6,7 @@ Facial recognition is used in social networking applications for both user detec
 
 # Challenges of Computer Vision 
 
+
 Creating a machine with human-level vision is surprisingly challenging, and not only because of the technical challenges involved in doing so with computers. We still have a lot to learn about the nature of human vision. 
 
 To fully grasp biological vision, one must learn not just how various receptors like the eye work, but also how the brain processes what it sees. The process has been mapped out, and its tricks and shortcuts have been discovered, but, as with any study of the brain, there is still a considerable distance to cover.
