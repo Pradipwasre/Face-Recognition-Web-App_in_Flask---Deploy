@@ -2,7 +2,6 @@
 
 Facial recognition programs, which use computer vision to recognize individuals in photographs, rely heavily on this field of study. Facial traits in photos are identified by computer vision algorithms, which then match those aspects to stored face profiles. In order to verify the identity of the people using consumer electronics, face recognition is increasingly being used. 
 
-
 Facial recognition is used in social networking applications for both user detection and user tagging. For the same reason, law enforcement uses face recognition software to track down criminals using surveillance footage.
 
 # Challenges of Computer Vision 
