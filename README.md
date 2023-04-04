@@ -12,4 +12,4 @@ To fully grasp biological vision, one must learn not just how various receptors 
 
 Computer Vision Benefits:
 * Understand faces just by one click, also shows the expressions whay they have.
-* This model with few features tunning can be used in other domains like in Medical, Cafe, and in the SuperMarket.
+* This model with few features tunning can be used in other areas like in Medical, Cafe, and in the SuperMarkets.
